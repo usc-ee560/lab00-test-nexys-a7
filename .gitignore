@@ -1,0 +1,9 @@
+syn/vivado_pid15628.str
+syn/vivado.jou
+syn/vivado.log
+syn/test-nexys-a7.cache/*
+syn/test-nexys-a7.hw/*
+syn/test-nexys-a7.hw/hw_1/*
+syn/test-nexys-a7.runs/*
+syn/test-nexys-a7.runs/impl_1/*
+syn/test-nexys-a7.runs/synth_1/*
